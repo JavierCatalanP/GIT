@@ -4,7 +4,7 @@ Comandos Git desde 0.
 
 ![alt text](https://d1jnx9ba8s6j9r.cloudfront.net/blog/wp-content/uploads/2016/11/Git-Architechture-Git-Tutorial-Edureka-2.png)
 
-## Los comandos de GIT, son:
+## Los comandos de GIT, son los siguientes:
 
 ### Muestra la versión de git instalada
 
