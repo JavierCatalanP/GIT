@@ -1,10 +1,10 @@
-# Comandos GIT
+<div id="header" align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=EA4E43&random=false&width=435&lines=Los+comandos+GIT%2C+son+los+siguientes%3A" alt="Typing SVG" /></a>
+ </div>
 
-Comandos Git desde 0.
-
-![alt text](https://d1jnx9ba8s6j9r.cloudfront.net/blog/wp-content/uploads/2016/11/Git-Architechture-Git-Tutorial-Edureka-2.png)
-
-## Comandos empleados en el aprendizaje
+<div id="header" align="center">
+  <img src="https://d1jnx9ba8s6j9r.cloudfront.net/blog/wp-content/uploads/2016/11/Git-Architechture-Git-Tutorial-Edureka-2.png" width="400" /></br>
+</div>
 
 ### Muestra la versión de git instalada
 
